@@ -1,6 +1,7 @@
-# WaferFaultDetection_a
+# WafersFaultDetection
 
 #Application Link
+
 https://wafersprojectdeploy.herokuapp.com
 
 # Problem Statement
